@@ -1,0 +1,5 @@
+
+config BR2_PACKAGE_AESDCHAR
+	bool "AESDCHAR"
+	help
+	  Includes Linux AESD Char Device Driver.
