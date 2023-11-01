@@ -1,5 +1,5 @@
 # Overview
 
-This repository contains assignment starter code for buildroot based assignments for the course Advanced Embedded Software Design, ECEN 5713
+This repository contains final project code for the course Linux Embedded System Topics and Projects
 
-It also contains instructions related to modifying your buildroot project to use with supported hardware platforms.  See [this wiki page](https://github.com/cu-ecen-5013/buildroot-assignments-base/wiki/Supported-Hardware) for details.
+Link to the “Project Overview” page: https://github.com/cu-ecen-aeld/final-project-iker-conde-ziv/wiki/Project-Overview
