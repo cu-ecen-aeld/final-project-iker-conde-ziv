@@ -1,4 +1,2 @@
 name: aesd_assignments
 description: AESD-ASSIGNMENTS for buildroot
-name: assignment_base
-description: Base customization for assignment
